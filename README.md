@@ -1,1 +1,0 @@
-# test-teamcity-github-integration
